@@ -1,0 +1,13 @@
+.box {
+	width: 50%;
+	margin: 0 auto;
+	height: 300px;
+	position: relative;
+	top: 50%;
+	transform: translateY(50%);
+}
+
+div.center-buttons {
+	display: table;
+	margin: 30px auto;
+}
